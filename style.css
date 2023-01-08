@@ -50,7 +50,11 @@ time, mark, audio, video {
 body {
     background-color: brown;
 }
-.header {
+.container {
+    width:20px;
+    margin:auto;
+}
+.container.header {
     background-color: blue;
 }
 .judul {
