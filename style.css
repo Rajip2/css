@@ -1,3 +1,8 @@
 body {
     background-color: blue;
 }
+.container {
+    height: 800px;
+    margin:auto;
+    background-color: azure;
+}
