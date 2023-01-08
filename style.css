@@ -8,7 +8,7 @@ body {
     height:100%
     margin:auto;
 }
-.container.header {
+.header {
     background-color:black;
 }
 .judul {
@@ -16,7 +16,4 @@ body {
 }
 .header a {
     color:aliceblue;
-}
-.header {
-    background-color: aquamarine;
 }
