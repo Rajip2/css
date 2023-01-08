@@ -1,17 +1,15 @@
 body {
     background-color: lightblue;
 }
-.container {
-    width: auto;
-    margin:auto;
-    background-color: azure;
+.header {
+    background-color: lightskyblue;
 }
-.container.judul {
+.judul {
     color:aliceblue;
 }
-.container.header a {
+.header a {
     color:aliceblue;
 }
-.container.header {
+.header {
     background-color: aquamarine;
 }
