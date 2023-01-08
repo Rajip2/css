@@ -1,8 +1,11 @@
 body {
-    background-color: blue;
+    background-color: lightblue;
 }
 .container {
     height: 800px;
     margin:auto;
     background-color: azure;
+}
+.container.judul {
+    color:aliceblue;
 }
