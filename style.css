@@ -9,3 +9,9 @@ body {
 .container.judul {
     color:aliceblue;
 }
+.container.header a {
+    color:aliceblue;
+}
+.container.header {
+    background-color: aquamarine;
+}
