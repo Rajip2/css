@@ -1,43 +1,85 @@
-
-
 html body {
     background-color: white;
-    margin:0px;
-    padding:0px;
+  margin:0px;
+  padding:0px;
 }
 .container {
     width:100%;
+    padding:10px;
     margin:auto;
     background-color: salmon;
     box-sizing: border-box;
     display:flex;
 }
 .header {
-    flex:1 ;
-    padding:5px;
+    flex:1;
+    padding:0px;
     font-size: 15px;
 }
-.sidebar a {
-    flex-grow: right;
-    text-decoration: none;
+.sidebar{
+  flex: right;
+    margin-top:15px;
+}
+.sidebar a{
+  text-decoration: none;
     color:black;
-    margin:5px;
-    padding:5px;
-    text-align: center;
-
+    font-size: 15px;
 }
 
 .container-dua{
-    background-image:url(Pictures/Toko.png) ;
+  width: 100%;
+  padding:50px;
+  margin-top: 0px;
+    background-image:url(Toko.png) ;
+  box-sizing: border-box;
 }
 
-
+.Kotak{
+  text-align: center;
+  background-color: blue;
+  color:black;
+  margin-top: 0px;
+  padding:3px;
+}
 .container-tiga{
-    width:800px;
+    width:100℅;
     margin:20px auto;
+    display: flex;
 }
-.card.header-satu.conten{
+.card{
     border:2px solid black;
-    border-radius: 20px;
-    background-color: aqua;
+    border-radius: 10px;
+    background-color: white;
+    Overflow:hidden;
+    margin:10px;
+    flex:1;
+}
+.card .conten{
+  text-align: center;
+  padding-bottom: 20px;
+}
+.card .header1{
+  height:175px;
+  background-image:url(Karbu.png);
+  background-size:200px;
+}
+.card .header2{
+  height:175px;
+  background-image:url(busi.png);
+  background-size:90px;
+}
+.card .header3{
+  height:175px;
+  background-image:url(velg.png);
+  background-size:150px;
+}
+
+
+.container-empat{
+  background-color: #eaeaea;
+  margin-top:0px;
+  padding:1px;
+}
+.footer{
+  text-align: center;
 }
