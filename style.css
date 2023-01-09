@@ -12,3 +12,9 @@ html body {
     box-sizing: border-box;
     display:flex;
 }
+.header {
+    flex:1 ;
+}
+.sidebar {
+    flex:1;
+}
