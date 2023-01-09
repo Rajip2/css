@@ -20,7 +20,6 @@ html body {
 }
 .sidebar a {
     float: inline-end;
-    text-align: right;
     text-decoration: none;
     color:black;
 
