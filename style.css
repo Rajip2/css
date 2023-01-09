@@ -36,7 +36,7 @@ html body {
     width:800px;
     margin:20px auto;
 }
-.card.header-satu{
+.card.header-satu.conten{
     border:2px solid black;
     border-radius: 20px;
     background-color: aqua;
