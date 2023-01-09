@@ -9,13 +9,13 @@ html body {
     width:100%;
     margin:0px auto;
     background-color: salmon;
-    padding:5px;
+    padding:10px;
     box-sizing: border-box;
     display:flex;
 }
 .header {
     flex:1 ;
-    padding:10px;
+    padding:5px;
 }
 .sidebar a {
     float: inline-end;
