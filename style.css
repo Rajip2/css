@@ -7,7 +7,7 @@ html body {
 }
 .container {
     width:100%;
-    margin:0px auto;
+    margin:0px 20px;
     background-color: salmon;
     padding:10px;
     box-sizing: border-box;
@@ -16,6 +16,7 @@ html body {
 .header {
     flex:1 ;
     padding:5px;
+    font-size: 5px;
 }
 .sidebar a {
     float: inline-end;
