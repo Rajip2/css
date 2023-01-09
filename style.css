@@ -21,5 +21,6 @@ html body {
     flex-grow: right;
     text-decoration: none;
     color:black;
+    margin:3px;
 
 }
