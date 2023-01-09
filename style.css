@@ -19,7 +19,7 @@ html body {
     font-size: 5px;
 }
 .sidebar a {
-    float: inline-end;
+    flex-grow: right;
     text-decoration: none;
     color:black;
 
