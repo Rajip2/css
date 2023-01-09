@@ -16,7 +16,9 @@ html body {
 .header {
     flex:1 ;
 }
-.sidebar {
+.sidebar a {
     flex:1;
+    text-align: right;
+    text-decoration: none;
 
 }
