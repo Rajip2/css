@@ -34,9 +34,9 @@ html body {
 .container-tiga{
     width:800px;
     margin:20px auto;
-    background-color: antiquewhite;
 }
 .card{
     border:2px solid black;
     border-radius: 20px;
+    background-color: aqua;
 }
