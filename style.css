@@ -60,17 +60,17 @@ html body {
 }
 .card .header1{
   height:175px;
-  background-image:url(Karbu.png);
+  background-image:url(Pictures/Karbu.png);
   background-size:200px;
 }
 .card .header2{
   height:175px;
-  background-image:url(busi.png);
+  background-image:url(Pictures/busi.png);
   background-size:90px;
 }
 .card .header3{
   height:175px;
-  background-image:url(velg.png);
+  background-image:url(Pictures/velg.png);
   background-size:150px;
 }
 
