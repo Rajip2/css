@@ -29,3 +29,14 @@ html body {
 .container-dua{
     background-image:url(Pictures/Toko.png) ;
 }
+
+
+.container-tiga{
+    width:800px;
+    margin:20px auto;
+    
+}
+.card{
+    border:2px solid black;
+    border-radius: 20px;
+}
