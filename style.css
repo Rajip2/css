@@ -39,7 +39,7 @@
   height: 500px;
   padding:15px;
   margin-top: 0px;
-    background-image:url(Beware.JPG) ;
+    background-image:url(Pictures/Beware.JPG) ;
     background-position:0px -40px ;
     background-size:1050px;
   box-sizing: border-box;
@@ -75,17 +75,17 @@
 }
 .card .header1{
   height:180px;
-  background-image:url(Karbu.png);
+  background-image:url(Pictures/Karbu.png);
   background-size:310px;
 }
 .card .header2{
   height:180px;
-  background-image:url(busi.png);
+  background-image:url(Pictures/busi.png);
   background-size:155px;
 }
 .card .header3{
   height:180px;
-  background-image:url(velg.png);
+  background-image:url(Pictures/velg.png);
   background-size:310px;
 }
 .conten{
