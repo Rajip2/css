@@ -7,7 +7,7 @@ html body {
 }
 .container {
     width:100%;
-    margin:20px auto;
+    margin:0px auto;
     background-color: salmon;
     padding:5px;
     box-sizing: border-box;
