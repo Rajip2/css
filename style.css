@@ -33,6 +33,9 @@
     font-size: 15px;
     margin:2px;
 }
+.sidebar a:hover {
+  color:greenyellow;
+}
 
 .container-dua{
   width: 100%;
